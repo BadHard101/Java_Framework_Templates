@@ -1,4 +1,4 @@
-package PR6;
+package PR6.AbstractFactory;
 
 public class AbstractFactoryTest {
     interface AbstractProduct {

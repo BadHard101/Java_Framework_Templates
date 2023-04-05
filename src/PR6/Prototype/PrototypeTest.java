@@ -1,4 +1,4 @@
-package PR6;
+package PR6.Prototype;
 
 class PrototypeTest implements Cloneable {
     private String propertyA;
