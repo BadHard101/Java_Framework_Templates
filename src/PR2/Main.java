@@ -68,7 +68,7 @@ public class Main {
         // just forEach
         System.out.println("---INCREASE BY 3 (just forEach)-----------------------");
         Stream<Human> stream3 = main.getPeople().stream();
-        stream3.forEach(human -> System.out.println(human.setAge(3)) );
+        stream3.forEach(human -> System.out.println(human.setAge(3)));
 
         // by map
         System.out.println("---INCREASE BY 3 (by map)-----------------------");
